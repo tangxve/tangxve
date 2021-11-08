@@ -1,4 +1,4 @@
-### Hi 想做厨子的程序员 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi 你听说过All Blue 吗？ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **tangxve/tangxve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-喂，你听说过All Blue吗？🚬
-
-目前有力抱着键盘，希望以后握着菜刀
+目前手里抱着键盘，希望以后握着菜刀
 
 笔记：[记录一些日常](https://tangxve.github.io/blog/)
 
