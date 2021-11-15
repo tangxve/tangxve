@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-目前手里抱着键盘，希望以后握着菜刀
+目前手里敲着键盘，希望以后握着菜刀
 
 笔记：[记录一些日常](https://tangxve.github.io/blog/)
 
