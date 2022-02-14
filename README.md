@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ### 笔记：[记录一些日常](https://tangxve.github.io/blog/)
 
+### 常用的 [canvas 方法封装](https://github.com/tangxve/canvasUtils)
+
 
 **Languages:**
 
