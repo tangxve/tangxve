@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 目前手里敲着键盘，希望以后握着菜刀
 
-### 笔记：[记录一些日常](https://tangxve.github.io/blog/)
+### blog：[记录一些日常](https://tangxve.github.io/blog/)
 
-#### [常用的canvas 方法封装](https://github.com/tangxve/canvasUtils)
+### 常用的 canvas 方法封装：[canvasUtils](https://github.com/tangxve/canvasUtils)
 
 
 **Languages:**
