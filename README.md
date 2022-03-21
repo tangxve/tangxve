@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### blog：[记录一些日常](https://tangxve.github.io/blog/)
 
-### 常用的 canvas 方法封装：[canvasUtils](https://github.com/tangxve/canvasUtils)
+### canvas 方法：[canvasUtils](https://github.com/tangxve/canvasUtils)
 
 
 **Languages:**
