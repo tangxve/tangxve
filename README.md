@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-目前手里敲着代码，希望以后握着炒锅
-
 ### blog：[记录一些日常](https://tangxve.github.io/blog/)
 
 ### canvas 方法：[canvasUtils](https://github.com/tangxve/canvasUtils)
