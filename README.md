@@ -34,5 +34,12 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://github.com/likaia/likaia/blob/main/webstorm.png" alt="webstorm"></code>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 ![shiba's github stats](https://github-readme-stats.vercel.app/api?username=tangxve&show_icons=true&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangxve&layout=compact)
